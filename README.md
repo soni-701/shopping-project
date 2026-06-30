@@ -47,7 +47,7 @@ shopping-project/
 
 ### Home Page
 
-_Add your screenshot here_
+![]
 
 ### Product Page
 
