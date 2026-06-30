@@ -47,15 +47,15 @@ shopping-project/
 
 ### Home Page
 
-![]
+![Home](home.jpeg)
 
 ### Product Page
 
-_Add your screenshot here_
+![Product](product.jpeg)
 
 ### Cart Page
 
-_Add your screenshot here_
+![Cart](cart.jpeg)
 
 ## 📦 API Used
 
